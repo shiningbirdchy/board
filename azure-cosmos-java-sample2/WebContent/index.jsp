@@ -49,7 +49,7 @@
       <!-- Update Button -->
       <div class="todoUpdatePanel">
         <form class="form-horizontal" role="form">
-          <button type="button" class="btn btn-primary">Update Tasks</button>
+          <button type="button" class="btn btn-primary">Update</button>
         </form>
       </div>
 
